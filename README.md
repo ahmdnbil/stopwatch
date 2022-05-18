@@ -1,4 +1,4 @@
-# stopwatch project
+# Stopwatch
 ## used components
 - PIC16F877a
 - LCD 16*2 
@@ -11,6 +11,7 @@
 - Breadboard
 - Crystal 8 MHz
 - two 22pF Capacitors
+- potentiometer
 -----------------------------------------------------------------------------------------------
 
 ## **images**
